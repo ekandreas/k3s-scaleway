@@ -9,7 +9,7 @@ variable "private_key" {
 }
 
 variable "region" {
-  default = "ams1"
+  default = "par1"
   description = "Values: par1 ams1"
 }
 

@@ -5,7 +5,7 @@ cloudflare_email = "youraccount@example.com"
 cloudflare_token = "your_cloudflare_token"
 cloudflare_zone = "your.zone"
 
-region = "ams1"
+region = "par1"
 
 cluster_secret="randompass"
 
