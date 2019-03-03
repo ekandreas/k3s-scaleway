@@ -1,0 +1,13 @@
+scw_token = "nnn_nnn_nnn_nnn"
+scw_org = "nnn_nnn_nnn_nnn_nnn"
+
+cloudflare_email = "youraccount@example.com"
+cloudflare_token = "your_cloudflare_token"
+cloudflare_zone = "your.zone"
+
+region = "ams1"
+
+cluster_secret="randompass"
+
+server_type="START1-S"
+nodes=3
